@@ -1,7 +1,5 @@
 #👋 Hi, I’m AntonioCassian.
 
-- 👀 I’m interested in React.
-- 🌱 I’m currently learning Java Script and Bootstrap.
 - 📫 contact and email: antoniomart849@gmail.com
 <div align="center">
   <a href="https://github.com/AntonioCassian">
